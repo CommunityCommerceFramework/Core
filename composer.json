@@ -1,16 +1,16 @@
 {
-  "name": "openmage/magento-lts",
+  "name": "community-commerce-framework/core",
+  "description": "A Fork of version 1 of a well known ecommerce framework",
   "license": "OSL-3.0",
-  "type": "magento-source",
+  "type": "magento-core",
   "require": {
-    "php": ">=5.2.13",
-    "magento-hackathon/magento-composer-installer": "*"
+    "php": ">=5.2.13"
   },
   "authors": [
     {
       "name": "Lee Saferite",
       "email": "lee.saferite@aoe.com",
-      "role": "Maintainer"
+      "role": "Developer"
     },
       {
         "name": "Daniel Fahlke aka Flyingmana",
@@ -20,7 +20,7 @@
     {
       "name": "David Robinson",
       "email": "david.robinson@aoe.com",
-      "role": "Maintainer"
+      "role": "Developer"
     }
   ]
 }
