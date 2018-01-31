@@ -5,6 +5,14 @@ A few People out of my bubble need a simple but feature rich e-commerce system w
 The original project this repository is forked from did this Step into the future already with a new Version, but they increased the amount of effort and the scope of knowledge needed to work with it immense.
 While this worked out for most People, some prefered the simpler version it was before, but still would like to make use of more modern tools like composer, remove unneeded features from the core and improve some parts.
 
+## Community
+The community is an important part of this project.
+For the beginning we only have Github and discord as a communication platform.  
+* [Discord](https://discord.gg/F3V8QA2)
+
+You want to join the community on a plattform you already use?
+Start one there and I will happily add the link to it here and spread the word about it.  
+
 ## Primary Task: Move this E-Commerce Framework into the Future
 
 * Have proper support for Composer and autoloading
