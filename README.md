@@ -27,6 +27,8 @@ For now it is needed to also have https://github.com/AydinHassan/magento-core-co
 ## License
 [OSL v3.0](http://opensource.org/licenses/OSL-3.0) - as the original project
 
+## Public Communication and online Community places
+* [Discord](https://discord.gg/EV8aNbU) (maintained by Flyingmana)
 
 ## Maintainers
 * [Daniel Fahlke aka Flyingmana](https://github.com/Flyingmana)
